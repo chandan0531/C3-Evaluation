@@ -1,0 +1,29 @@
+#navbar {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  #wallet {
+    margin-left: 1000px;
+  }
+
+
+  #amount {
+    display: block;
+    margin: auto;
+    width: 200px;
+  }
+
+  #add_to_wallet {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    cursor: pointer;
+
+  }
+
+  #book_movies {
+    display: block;
+    margin: auto;
+    cursor: pointer;
+  }
